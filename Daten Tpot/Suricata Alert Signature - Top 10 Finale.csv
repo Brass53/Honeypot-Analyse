@@ -1,0 +1,11 @@
+﻿ID,Description,Count
+2200003,"SURICATA IPv4 truncated packet","2,760,009"
+2210048,"SURICATA STREAM reassembly sequence GAP -- missing packet(s)","1,982,473"
+2200074,"SURICATA TCPv4 invalid checksum","32,524"
+2210061,"SURICATA STREAM spurious retransmission","30,987"
+2210051,"SURICATA STREAM Packet with broken ack","20,751"
+2001978,"ET INFO SSH session in progress on Expected Port","19,627"
+2210037,"SURICATA STREAM FIN recv but no session","11,783"
+2029054,"ET SCAN Zmap User-Agent (Inbound)","8,131"
+2023997,"ET INFO Potentially unsafe SMBv1 protocol in use","6,685"
+2228000,"SURICATA SSH invalid banner","6,161"

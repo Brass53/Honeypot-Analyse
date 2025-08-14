@@ -1,0 +1,129 @@
+﻿"alert.category.keyword: Descending","Timestamp per 12 hours",Attacks
+"Generic Protocol Command Decode","2025-04-01 00:00","80,277"
+"Generic Protocol Command Decode","2025-04-01 12:00","182,931"
+"Generic Protocol Command Decode","2025-04-02 00:00","192,756"
+"Generic Protocol Command Decode","2025-04-02 12:00","146,256"
+"Generic Protocol Command Decode","2025-04-03 00:00","198,151"
+"Generic Protocol Command Decode","2025-04-03 12:00","177,707"
+"Generic Protocol Command Decode","2025-04-04 00:00","216,902"
+"Generic Protocol Command Decode","2025-04-04 12:00","196,949"
+"Generic Protocol Command Decode","2025-04-05 00:00","188,868"
+"Generic Protocol Command Decode","2025-04-05 12:00","159,447"
+"Generic Protocol Command Decode","2025-04-06 00:00","151,190"
+"Generic Protocol Command Decode","2025-04-06 12:00","204,368"
+"Generic Protocol Command Decode","2025-04-07 00:00","200,815"
+"Generic Protocol Command Decode","2025-04-07 12:00","178,694"
+"Generic Protocol Command Decode","2025-04-08 00:00","252,421"
+"Generic Protocol Command Decode","2025-04-08 12:00","192,141"
+"Generic Protocol Command Decode","2025-04-09 00:00","225,031"
+"Generic Protocol Command Decode","2025-04-09 12:00","191,754"
+"Generic Protocol Command Decode","2025-04-10 00:00","228,185"
+"Generic Protocol Command Decode","2025-04-10 12:00","184,606"
+"Generic Protocol Command Decode","2025-04-11 00:00","225,949"
+"Generic Protocol Command Decode","2025-04-11 12:00","176,962"
+"Generic Protocol Command Decode","2025-04-12 00:00","162,681"
+"Generic Protocol Command Decode","2025-04-12 12:00","169,001"
+"Generic Protocol Command Decode","2025-04-13 00:00","126,550"
+"Generic Protocol Command Decode","2025-04-13 12:00","187,583"
+"Misc activity","2025-04-01 00:00",189
+"Misc activity","2025-04-01 12:00",588
+"Misc activity","2025-04-02 00:00","1,112"
+"Misc activity","2025-04-02 12:00",800
+"Misc activity","2025-04-03 00:00","1,075"
+"Misc activity","2025-04-03 12:00",787
+"Misc activity","2025-04-04 00:00",957
+"Misc activity","2025-04-04 12:00","1,163"
+"Misc activity","2025-04-05 00:00",773
+"Misc activity","2025-04-05 12:00",764
+"Misc activity","2025-04-06 00:00",800
+"Misc activity","2025-04-06 12:00",977
+"Misc activity","2025-04-07 00:00",809
+"Misc activity","2025-04-07 12:00",831
+"Misc activity","2025-04-08 00:00","1,011"
+"Misc activity","2025-04-08 12:00","1,196"
+"Misc activity","2025-04-09 00:00","1,099"
+"Misc activity","2025-04-09 12:00","1,137"
+"Misc activity","2025-04-10 00:00","1,120"
+"Misc activity","2025-04-10 12:00",841
+"Misc activity","2025-04-11 00:00","1,085"
+"Misc activity","2025-04-11 12:00","1,041"
+"Misc activity","2025-04-12 00:00","1,442"
+"Misc activity","2025-04-12 12:00","1,239"
+"Misc activity","2025-04-13 00:00","1,281"
+"Misc activity","2025-04-13 12:00","1,413"
+"Detection of a Network Scan","2025-04-01 00:00",111
+"Detection of a Network Scan","2025-04-01 12:00",297
+"Detection of a Network Scan","2025-04-02 00:00",273
+"Detection of a Network Scan","2025-04-02 12:00",311
+"Detection of a Network Scan","2025-04-03 00:00",302
+"Detection of a Network Scan","2025-04-03 12:00",335
+"Detection of a Network Scan","2025-04-04 00:00",323
+"Detection of a Network Scan","2025-04-04 12:00",306
+"Detection of a Network Scan","2025-04-05 00:00",295
+"Detection of a Network Scan","2025-04-05 12:00",330
+"Detection of a Network Scan","2025-04-06 00:00",336
+"Detection of a Network Scan","2025-04-06 12:00",312
+"Detection of a Network Scan","2025-04-07 00:00",343
+"Detection of a Network Scan","2025-04-07 12:00",311
+"Detection of a Network Scan","2025-04-08 00:00",300
+"Detection of a Network Scan","2025-04-08 12:00",312
+"Detection of a Network Scan","2025-04-09 00:00",289
+"Detection of a Network Scan","2025-04-09 12:00",302
+"Detection of a Network Scan","2025-04-10 00:00",331
+"Detection of a Network Scan","2025-04-10 12:00",322
+"Detection of a Network Scan","2025-04-11 00:00",301
+"Detection of a Network Scan","2025-04-11 12:00",360
+"Detection of a Network Scan","2025-04-12 00:00",338
+"Detection of a Network Scan","2025-04-12 12:00",322
+"Detection of a Network Scan","2025-04-13 00:00",319
+"Detection of a Network Scan","2025-04-13 12:00",363
+"Not Suspicious Traffic","2025-04-01 00:00",94
+"Not Suspicious Traffic","2025-04-01 12:00",256
+"Not Suspicious Traffic","2025-04-02 00:00",263
+"Not Suspicious Traffic","2025-04-02 12:00",198
+"Not Suspicious Traffic","2025-04-03 00:00",287
+"Not Suspicious Traffic","2025-04-03 12:00",247
+"Not Suspicious Traffic","2025-04-04 00:00",299
+"Not Suspicious Traffic","2025-04-04 12:00",253
+"Not Suspicious Traffic","2025-04-05 00:00",244
+"Not Suspicious Traffic","2025-04-05 12:00",238
+"Not Suspicious Traffic","2025-04-06 00:00",233
+"Not Suspicious Traffic","2025-04-06 12:00",257
+"Not Suspicious Traffic","2025-04-07 00:00",301
+"Not Suspicious Traffic","2025-04-07 12:00",269
+"Not Suspicious Traffic","2025-04-08 00:00",373
+"Not Suspicious Traffic","2025-04-08 12:00",274
+"Not Suspicious Traffic","2025-04-09 00:00",306
+"Not Suspicious Traffic","2025-04-09 12:00",255
+"Not Suspicious Traffic","2025-04-10 00:00",307
+"Not Suspicious Traffic","2025-04-10 12:00",253
+"Not Suspicious Traffic","2025-04-11 00:00",293
+"Not Suspicious Traffic","2025-04-11 12:00",249
+"Not Suspicious Traffic","2025-04-12 00:00",221
+"Not Suspicious Traffic","2025-04-12 12:00",225
+"Not Suspicious Traffic","2025-04-13 00:00",187
+"Not Suspicious Traffic","2025-04-13 12:00",227
+"Attempted Administrator Privilege Gain","2025-04-01 00:00",1
+"Attempted Administrator Privilege Gain","2025-04-01 12:00",4
+"Attempted Administrator Privilege Gain","2025-04-02 00:00",1
+"Attempted Administrator Privilege Gain","2025-04-02 12:00",2
+"Attempted Administrator Privilege Gain","2025-04-03 00:00",2
+"Attempted Administrator Privilege Gain","2025-04-03 12:00",1
+"Attempted Administrator Privilege Gain","2025-04-04 12:00",4
+"Attempted Administrator Privilege Gain","2025-04-05 00:00",3
+"Attempted Administrator Privilege Gain","2025-04-05 12:00",4
+"Attempted Administrator Privilege Gain","2025-04-06 12:00",16
+"Attempted Administrator Privilege Gain","2025-04-07 00:00",66
+"Attempted Administrator Privilege Gain","2025-04-07 12:00",287
+"Attempted Administrator Privilege Gain","2025-04-08 00:00",2
+"Attempted Administrator Privilege Gain","2025-04-08 12:00",4
+"Attempted Administrator Privilege Gain","2025-04-09 00:00",2
+"Attempted Administrator Privilege Gain","2025-04-09 12:00",2
+"Attempted Administrator Privilege Gain","2025-04-10 00:00",1
+"Attempted Administrator Privilege Gain","2025-04-10 12:00",3
+"Attempted Administrator Privilege Gain","2025-04-11 00:00",2
+"Attempted Administrator Privilege Gain","2025-04-11 12:00",1
+"Attempted Administrator Privilege Gain","2025-04-12 00:00",1
+"Attempted Administrator Privilege Gain","2025-04-12 12:00",1
+"Attempted Administrator Privilege Gain","2025-04-13 00:00",6
+"Attempted Administrator Privilege Gain","2025-04-13 12:00",4
