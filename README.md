@@ -52,8 +52,8 @@ Alle Rohdaten befinden sich im Ordner [⁠ Daten Tpot/ ⁠](./Daten Tpot):
 
 Screenshots und generierte Diagramme befinden sich im Ordner [⁠ Screenshots/ ⁠](./Screenshots):
  
-•⁠  ⁠*Username-Tagcloud* – ⁠ username_tagcloud.png ⁠  
-•⁠  ⁠*Screenshots/Tagcloud Nutzernamen 2025-04-14* – ⁠ Tagcloud Nutzernamen 2025-04-14 .jpeg ⁠  
+•⁠  ⁠*Tagcloud Nutzernamen 2025-04-14 .jpeg* – ⁠ username_tagcloud.png ⁠  
+•⁠  ⁠*Tagcloud Nutzernamen 2025-04-14* – ⁠ Tagcloud Nutzernamen 2025-04-14 .jpeg ⁠  
 •⁠  ⁠*Attack Map* – ⁠ attack_map.png ⁠  
 
 ---
