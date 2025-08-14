@@ -76,6 +76,5 @@ Screenshots und generierte Diagramme befinden sich im Ordner [⁠ Screenshots/
 
 ##  Kontakt
 
-Falls du Fragen hast oder über ähnliche Projekte sprechen möchtest:  
-*Autor:* [Dein Name]  
+Falls du Fragen hast oder über ähnliche Projekte sprechen möchtest:    
 *GitHub:*Brass53 (https://github.com/Brass53)
